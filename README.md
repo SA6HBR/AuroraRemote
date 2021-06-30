@@ -25,8 +25,8 @@ Check that you have same voltage on io-pin and to optocoupler.
 * [Manual](https://github.com/SA6HBR/AuroraRemote/blob/main/doc/AuroraRemoteManual.pdf)
 * [Interface](https://github.com/SA6HBR/AuroraRemote/blob/main/CircuitDiagram/Aurora_Remote_TNC_interface.pdf)
 * [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
-* [MiKTeX is a modern TeX distribution for Windows](https://miktex.org/)
-* [KiCad ](https://www.kicad.org/)
+* [MiKTeX](https://miktex.org/)
+* [KiCad](https://www.kicad.org/)
 
 ## License
 
