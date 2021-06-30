@@ -1,2 +1,31 @@
-# AuroraRemote
+# Aurora-Remote
 Ericsson C50 Aurora / Niros TRX3001 - Remote
+
+![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/AuroraRemote2.png "AuroraRemote")  
+You can look in the log for see witch com-port-number your usb-ttl got.  
+
+
+![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/AuroraRemote.png "AuroraDisplay")  
+Chose right com-port and klick on Connect.  
+
+
+![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/Diagram1.png "Diagram1")  
+If you want to use Winlink-VaraFM, you have to use com0com between Aurora-Display and Winlink.  
+
+
+![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/Interface.png "Interface")  
+You connect the interface in JS1. Same port normaly display is using.  
+You have to add an USB-TTL to this scheme. Ex. cp2102  
+Check that you have same voltage on io-pin and to optocoupler.  
+
+
+## Useful Links
+
+* [Download latest Aurora_Remote.exe](https://github.com/SA6HBR/AuroraRemote/releases/download/0.07/Aurora_Remote.exe)
+* [Manual](https://github.com/SA6HBR/AuroraRemote/blob/main/doc/AuroraRemoteManual.pdf)
+* [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
+* [MiKTeX is a modern TeX distribution for Windows](https://miktex.org/)
+
+## License
+
+GNU General Public License v3.0, see [LICENSE](https://github.com/SA6HBR/SerialProxy/blob/main/LICENSE) for details.
