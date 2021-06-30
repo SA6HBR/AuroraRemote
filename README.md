@@ -15,7 +15,7 @@ If you want to use Winlink-VaraFM, you have to use com0com between Aurora-Displa
 
 ![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/Interface.png "Interface")  
 You connect the interface in JS1. Same port normaly display is using.  
-You have to add an USB-TTL to this scheme. Ex. cp2102  
+You have to add an USB-TTL. Ex. cp2102  
 Check that you have same voltage on io-pin and to optocoupler.  
 
 
@@ -23,8 +23,10 @@ Check that you have same voltage on io-pin and to optocoupler.
 
 * [Download latest Aurora_Remote.exe](https://github.com/SA6HBR/AuroraRemote/releases/download/0.07/Aurora_Remote.exe)
 * [Manual](https://github.com/SA6HBR/AuroraRemote/blob/main/doc/AuroraRemoteManual.pdf)
+* [Interface](https://github.com/SA6HBR/AuroraRemote/blob/main/CircuitDiagram/Aurora_Remote_TNC_interface.pdf)
 * [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
 * [MiKTeX is a modern TeX distribution for Windows](https://miktex.org/)
+* [KiCad ](https://www.kicad.org/)
 
 ## License
 
