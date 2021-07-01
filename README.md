@@ -21,7 +21,7 @@ Check that you have same voltage on io-pin and to optocoupler.
 
 ## Useful Links
 
-* [Download latest Aurora_Remote.exe](https://github.com/SA6HBR/AuroraRemote/releases/download/0.07/Aurora_Remote.exe)
+* [Download latest (0.07) Aurora_Remote.exe](https://github.com/SA6HBR/AuroraRemote/releases/download/0.07/Aurora_Remote.exe)
 * [Manual](https://github.com/SA6HBR/AuroraRemote/blob/main/doc/AuroraRemoteManual.pdf)
 * [Interface](https://github.com/SA6HBR/AuroraRemote/blob/main/CircuitDiagram/Aurora_Remote_TNC_interface.pdf)
 * [Null-modem emulator (com0com)](https://sourceforge.net/projects/com0com/)
