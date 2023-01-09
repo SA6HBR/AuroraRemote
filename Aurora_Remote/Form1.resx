@@ -188,6 +188,18 @@
         61IxPBhKhkvmP0vaJBn8MOki16QBJCTDTpv+Sf9oAvAd6epTlPwAv4UAAAAASUVORK5CYII=
 </value>
   </data>
+  <data name="RefreshButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAUxJREFUSEvNlSFTxEAMRuuQSCSSn4BEIpFIJBKJxCFPIpFIJBKJRCKRSCQWvsc1
+        N98tSdkyFbyZN9Nrs7vdbJMb/gu78sg8kBk821lf9nEo7+Vn4aNkUoi45+9fHVzLdsJKFvLfk+zLJ+kD
+        8F0yEb6O9ypLyB9b9OBbyaIte3IlP6THY4mnhTc+lhm8CAv7pG4Kh+VB1eRwJj22NcUP6oYbE5Ce6hzS
+        sQzwIL77RSEdMTlvtjieUwpmcc5lLMDX8Vfi67qTpH3DiYwFuks94ULGPFxvoHnFA5zVsAwv0q0F4EXG
+        Q1I2FxpjjMcf1e/nQPlXLTmDHXtdlHX0ICOI7W4dVAE14y39bbyXwoT0oAjmmk+4gvphwojHUzkJAW2H
+        ZPu85dUo11mr4FkX5D/7T6j8bacll9JT1spOKayes5qEQoz0hOR/8aY4k2H4AjTmrofOW5aOAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
   <data name="Taskmgr_button.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAlxJREFUSEu1
@@ -204,18 +216,6 @@
         J0Qxa4wAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="RefreshButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAUxJREFUSEvNlSFTxEAMRuuQSCSSn4BEIpFIJBKJxCFPIpFIJBKJRCKRSCQWvsc1
-        N98tSdkyFbyZN9Nrs7vdbJMb/gu78sg8kBk821lf9nEo7+Vn4aNkUoi45+9fHVzLdsJKFvLfk+zLJ+kD
-        8F0yEb6O9ypLyB9b9OBbyaIte3IlP6THY4mnhTc+lhm8CAv7pG4Kh+VB1eRwJj22NcUP6oYbE5Ce6hzS
-        sQzwIL77RSEdMTlvtjieUwpmcc5lLMDX8Vfi67qTpH3DiYwFuks94ULGPFxvoHnFA5zVsAwv0q0F4EXG
-        Q1I2FxpjjMcf1e/nQPlXLTmDHXtdlHX0ICOI7W4dVAE14y39bbyXwoT0oAjmmk+4gvphwojHUzkJAW2H
-        ZPu85dUo11mr4FkX5D/7T6j8bacll9JT1spOKayes5qEQoz0hOR/8aY4k2H4AjTmrofOW5aOAAAAAElF
-        TkSuQmCC
-</value>
-  </data>
   <data name="TrashButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
@@ -225,6 +225,11 @@
         VQMU5jOggwxuPisN3hfP3km20E6jysb85M03Ca/DA3xA3yiSA/huWsJfktIb6iuvXmOaQEkAAAAASUVO
         RK5CYII=
 </value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>The radio normally display the sign on message for about 3 seconds and BEFORE this message
+disappear, press and hold BOTH the ON/OFF and the RED ALARM bottom.
+Enter the code ’10011704’ followed by “Ent” . The radio has now entered service mode.</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
