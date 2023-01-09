@@ -1,9 +1,0 @@
-C:\___GitHub\Aurora_Remote\Aurora_Remote\bin\Release\Aurora_Remote.exe.config
-C:\___GitHub\Aurora_Remote\Aurora_Remote\bin\Release\Aurora_Remote.exe
-C:\___GitHub\Aurora_Remote\Aurora_Remote\bin\Release\Aurora_Remote.pdb
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.Form1.resources
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.Properties.Resources.resources
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.csproj.GenerateResource.cache
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.csproj.CoreCompileInputs.cache
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.exe
-C:\___GitHub\Aurora_Remote\Aurora_Remote\obj\Release\Aurora_Remote.pdb
