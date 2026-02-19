@@ -9,10 +9,6 @@ You can look in the log for see witch com-port-number your usb-ttl got.
 Chose right com-port and klick on Connect.  
 
 
-![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/Diagram1.png "Diagram1")  
-If you want to use Winlink-VaraFM, you have to use com0com between Aurora-Display and Winlink.  
-
-
 ![alt text](https://github.com/SA6HBR/AuroraRemote/blob/main/image/Interface.png "Interface")  
 You connect the interface in JS1. Same port normaly display is using.  
 You have to add an USB-TTL. Ex. cp2102  
